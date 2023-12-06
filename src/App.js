@@ -1,10 +1,10 @@
 import React from "react";
-import CounterApp from "./CounterApp";
+import BMIcalculator from "./BMIcalculator";
 const App = () => {
 
   return (
     <>
-    <CounterApp />
+    <BMIcalculator />
     </>
   );
 }
